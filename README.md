@@ -1,11 +1,11 @@
 # INTRODUCTION
 ```
-It's my own library function.
+It's my own functions library.
 ```
 
 # MAKEFILE
 ```
-to make the exe file called :
+to make the library file called libft.a :
 make
 
 to recomplile all:
