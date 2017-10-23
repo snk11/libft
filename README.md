@@ -1,6 +1,6 @@
 # INTRODUCTION
 ```
-It's my own functions library.
+These are my own functions library.
 ```
 
 # MAKEFILE
